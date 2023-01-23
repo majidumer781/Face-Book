@@ -1,0 +1,77 @@
+body {
+    background: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Simple-White-Gradient-Background-Image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+#table {
+    width: 380px;
+}
+
+.right{
+    
+    background-color:#ffffff;
+    position:absolute;
+    top: 25%;
+            left: 48%;
+            border-radius: 5px;
+    -moz-box-shadow: 0 0 10px #bababa;
+    -webkit-box-shadow: 0 0 10px #bababa;
+    box-shadow: 0 0 10px  #bababa;
+}
+
+.login {
+font-size: 15px;
+padding: 15px 125px;
+background-color: #1877f2;
+color: white;
+border: none;
+border-radius: 5px;
+
+
+
+}
+
+.create {
+    font-size: 15px;
+    padding: 15px 60px;
+    background-color: #42b72a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+    
+    
+    }
+
+
+
+#margin {
+    margin: 3px;
+    padding: 12px 8px;
+    line-height: 1.0em;
+    
+}
+
+
+.facebook{
+    position:absolute;
+    top: 45%;
+            left: 20%;
+}
+.facebook2{
+    color: #036df7;
+    font-size: 25px;
+    font-weight: bold;
+    position:absolute;
+    top: 35%;
+            left: 20%;
+}
+
+.apage{
+    color: black;
+    position:absolute;
+    top: 75%;
+            left: 51%;
+}
